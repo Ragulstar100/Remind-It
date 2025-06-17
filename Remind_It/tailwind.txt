@@ -1,0 +1,6 @@
+bg-background
+text-text 
+alpha-bg-obacity-
+p-padding 
+w-width
+h-height
