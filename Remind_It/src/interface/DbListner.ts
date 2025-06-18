@@ -21,6 +21,7 @@ function getTableName<T extends { tableName: string }>(Cls: { tableName: string 
 
 
 
+const a=[5,8,11,18]
 
 
 
